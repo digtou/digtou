@@ -2,8 +2,6 @@
 
 ### 一个刚本科毕业的大学生
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=digtou&label=Profile views&color=0e75b6&style=flat" alt="digtou" /> </p>
-
 - 🔭 I'm currently working on **结合大模型开发**
 
 - 🌱 I'm currently learning **各类大模型的技术，java开发**
