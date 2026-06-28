@@ -8,9 +8,9 @@
 
 - 📫 如何联系我 **liubingyi456@163.com**
 
-- 我都所有项目都可以再 **[https://github.com/digtou](https://github.com/digtou)**找到
-
 - ❤ 我的爱好是：跑步🏃‍、手工
+
+- 我都所有项目都可以再 **[https://github.com/digtou](https://github.com/digtou)**找到
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
