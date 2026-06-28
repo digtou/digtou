@@ -1,14 +1,16 @@
-# Hi 👋, I'm 刘丙毅
+# 你好👋, 我是刘丙毅
 
 ### 一个刚本科毕业的大学生
 
-- 🔭 I'm currently working on **结合大模型开发一些项目**
+- 🔭我目前正在做 **结合大模型开发一些项目**
 
-- 🌱 I'm currently learning **各类大模型的技术，java开发**
+- 🌱 我目前正在学习 **各类大模型的技术，java开发**
 
-- 📫 How to reach me **liubingyi456@163.com**
+- 📫 如何联系我 **liubingyi456@163.com**
 
-- 👨‍💻 All of my projects are available at **[https://github.com/digtou](https://github.com/digtou)**
+- 👨‍💻 我都所有项目都可以再 **[https://github.com/digtou](https://github.com/digtou)**找到
+
+- ❤ 我的爱好是：跑步🏃‍、手工
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
