@@ -2,7 +2,7 @@
 
 ### 一个刚本科毕业的大学生
 
-- 🔭 I'm currently working on **结合大模型开发**
+- 🔭 I'm currently working on **结合大模型开发一些项目**
 
 - 🌱 I'm currently learning **各类大模型的技术，java开发**
 
